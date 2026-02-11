@@ -1,0 +1,30 @@
+[
+  {
+    "name": "li_at",
+    "value": "AQEDAVz-WGkE3ycvAAABnBv3xT0AAAGcbO5kak0ABGyQbjK39iaSMf9vVp8G7k-nUrQsr45icczFvRByHSkTMd39fweCwL337njUWuiO3BQIKg2cTc3uZQmVhmJD6hbD00KC1xw1ibyoXnGcX0F2scyx",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "\"ajax:6676702804930423907\"",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "name": "bcookie",
+    "value": "\"v=2&b0c1da8a-50d1-4a15-88c2-c1b3f1c5e8c8\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "name": "bscookie",
+    "value": "\"v=1&202507230252165833d5d1-2b25-4f21-8892-f832c8243b82AQHesObMWzdXoxArpcEDUGypt7gqUbFS\"",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "secure": true
+  }
+]
